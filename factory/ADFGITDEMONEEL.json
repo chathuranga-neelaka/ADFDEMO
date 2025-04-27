@@ -1,0 +1,9 @@
+{
+	"name": "ADFGITDEMONEEL",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8abd4d47-4d6f-464e-97b4-b60bbd382de5",
+		"tenantId": "c7032767-8a6f-4b32-8b0d-a9d3408debe5"
+	}
+}
